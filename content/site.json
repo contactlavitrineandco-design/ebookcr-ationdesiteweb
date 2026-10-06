@@ -1,0 +1,34 @@
+{
+  "_aide": "Toutes les informations légales de l'éditeur. Remplacez chaque valeur entre crochets avant la mise en ligne : elles alimentent automatiquement les mentions légales, les CGV et la politique de confidentialité.",
+  "nom": "Charpente",
+  "baseline": "L'atelier pour apprendre à construire des sites web",
+  "domaine": "charpente.fr",
+  "emailContact": "bonjour@charpente.fr",
+  "emailDpo": "donnees@charpente.fr",
+  "editeur": {
+    "raisonSociale": "[Nom ou raison sociale]",
+    "formeJuridique": "[Entreprise individuelle / SAS / SARL…]",
+    "capital": "[Capital social, ou supprimer si EI]",
+    "adresse": "[Adresse complète du siège]",
+    "siret": "[Numéro SIRET]",
+    "rcs": "[RCS Ville B 000 000 000, ou « Dispensé d'immatriculation » pour un micro-entrepreneur]",
+    "tvaIntracom": "[FR00 000000000, ou supprimer si franchise en base]",
+    "directeurPublication": "[Prénom Nom]",
+    "telephone": "[Numéro de téléphone]"
+  },
+  "hebergeur": {
+    "nom": "[Nom de l'hébergeur, ex. OVH SAS]",
+    "adresse": "[Adresse de l'hébergeur, ex. 2 rue Kellermann, 59100 Roubaix]",
+    "telephone": "[Téléphone de l'hébergeur]"
+  },
+  "mediateur": {
+    "nom": "[Nom du médiateur de la consommation auquel vous adhérez]",
+    "site": "[https://site-du-mediateur.fr]"
+  },
+  "tva": {
+    "franchise": true,
+    "mention": "TVA non applicable, art. 293 B du CGI"
+  },
+  "cgvVersion": "2026-10-01",
+  "tribunal": "[Ville du tribunal compétent]"
+}

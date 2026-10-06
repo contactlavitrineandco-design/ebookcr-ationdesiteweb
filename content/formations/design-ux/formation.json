@@ -1,0 +1,18 @@
+{
+  "ordre": 4,
+  "titre": "Design & ergonomie pour non-designers",
+  "sousTitre": "Faire des sites beaux parce qu'ils sont clairs.",
+  "description": "Typographie, couleurs, contrastes, grilles, espacements, hiérarchie visuelle, parcours utilisateur et maquettage. Des règles concrètes et vérifiables, pas du goût personnel. Pour que vos sites aient l'air faits par un professionnel, même sans formation artistique.",
+  "prix": 24,
+  "niveau": "Tous niveaux",
+  "publicCible": "Les profils techniques qui « ne se sentent pas créatifs » et les débutants qui veulent un rendu pro.",
+  "objectifs": [
+    "Choisir et associer des polices avec méthode",
+    "Construire une palette accessible et cohérente",
+    "Organiser une page avec une grille et un système d'espacements",
+    "Concevoir un parcours qui mène l'utilisateur à l'action",
+    "Produire une maquette présentable avant de coder"
+  ],
+  "prerequis": "Aucun.",
+  "couleur": "#7a5a26"
+}

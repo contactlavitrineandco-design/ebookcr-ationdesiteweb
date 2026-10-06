@@ -1,0 +1,18 @@
+{
+  "ordre": 2,
+  "titre": "HTML & CSS, à la main",
+  "sousTitre": "Écrire ses pages ligne par ligne, et savoir pourquoi elles tiennent debout.",
+  "description": "La base de tout le reste. On écrit du HTML sémantique, on le met en forme avec CSS, on maîtrise Flexbox, Grid et le responsive, puis on assemble une vraie page d'accueil de site vitrine. Même si vous utilisez WordPress ensuite, c'est ce livre qui vous rendra autonome.",
+  "prix": 29,
+  "niveau": "Débutant → intermédiaire",
+  "publicCible": "Ceux qui veulent comprendre et maîtriser ce qu'ils publient, plutôt que dépendre d'un outil.",
+  "objectifs": [
+    "Structurer une page avec un HTML sémantique et accessible",
+    "Comprendre la cascade, la spécificité et le modèle de boîte",
+    "Construire des mises en page avec Flexbox et Grid",
+    "Rendre un site lisible du téléphone au grand écran",
+    "Livrer une page d'accueil complète, codée à la main"
+  ],
+  "prerequis": "Avoir lu « Les fondations du web » ou savoir ce qu'est un fichier, un dossier et un navigateur.",
+  "couleur": "#b9410f"
+}

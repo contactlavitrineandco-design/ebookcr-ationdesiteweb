@@ -1,0 +1,18 @@
+{
+  "ordre": 6,
+  "titre": "Du savoir-faire au métier",
+  "sousTitre": "Tout préparer pour travailler pour des clients. Jusqu'à la ligne de départ.",
+  "description": "Statut, portfolio, offre, prix, devis, contrats, méthode de projet : tout ce qu'il faut avoir en place avant de chercher son premier client. Le programme s'arrête volontairement là, à la porte de la prospection — vous y arrivez avec un dossier solide et des documents prêts.",
+  "prix": 29,
+  "niveau": "Intermédiaire",
+  "publicCible": "Ceux qui veulent faire de la création de sites une activité, en freelance ou en complément.",
+  "objectifs": [
+    "Choisir un statut adapté et connaître ses obligations",
+    "Constituer un portfolio crédible sans avoir encore de clients",
+    "Définir une offre lisible et calculer des prix tenables",
+    "Disposer de modèles de devis, CGV et contrat",
+    "Avoir une méthode de projet, du brief à la livraison"
+  ],
+  "prerequis": "Savoir réaliser un site vitrine (HTML/CSS ou WordPress).",
+  "couleur": "#191714"
+}

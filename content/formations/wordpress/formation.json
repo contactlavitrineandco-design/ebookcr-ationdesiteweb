@@ -1,0 +1,18 @@
+{
+  "ordre": 3,
+  "titre": "WordPress sans bricolage",
+  "sousTitre": "Le CMS qui fait tourner une grande partie du web, utilisé proprement.",
+  "description": "Installer WordPress, comprendre l'éditeur de blocs et les thèmes, choisir peu d'extensions mais les bonnes, construire un site vitrine qu'un client peut modifier seul, puis le sécuriser et le maintenir. Sans empiler quarante extensions.",
+  "prix": 29,
+  "niveau": "Débutant → intermédiaire",
+  "publicCible": "Ceux qui veulent produire des sites vitrines rapidement, modifiables par leurs propriétaires.",
+  "objectifs": [
+    "Installer WordPress chez un hébergeur ou en local",
+    "Construire des pages avec l'éditeur de blocs et un thème moderne",
+    "Sélectionner et limiter ses extensions",
+    "Livrer un site qu'un non-technicien sait mettre à jour",
+    "Mettre en place sécurité, sauvegardes et mises à jour"
+  ],
+  "prerequis": "« Les fondations du web ». Quelques notions de HTML/CSS aident mais ne sont pas obligatoires.",
+  "couleur": "#2b3a55"
+}

@@ -1,0 +1,18 @@
+{
+  "ordre": 5,
+  "titre": "Mettre en ligne et faire durer",
+  "sousTitre": "Publication, référencement, performance et obligations légales.",
+  "description": "Le moment où un site devient réel. Publier par FTP, Git ou un hébergeur statique, poser les bases du référencement naturel, rendre les pages rapides, respecter les obligations légales françaises et européennes (mentions, RGPD, cookies, accessibilité), puis suivre et entretenir le site.",
+  "prix": 24,
+  "niveau": "Intermédiaire",
+  "publicCible": "Ceux qui ont un site prêt (ou presque) et veulent le publier correctement.",
+  "objectifs": [
+    "Dérouler une checklist complète avant publication",
+    "Publier un site et le relier à son nom de domaine en HTTPS",
+    "Appliquer les bases solides du référencement naturel",
+    "Diagnostiquer et corriger les lenteurs",
+    "Mettre un site en conformité avec les obligations légales"
+  ],
+  "prerequis": "Avoir un site à publier, codé à la main ou sous WordPress.",
+  "couleur": "#4a3b52"
+}

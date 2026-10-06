@@ -1,0 +1,12 @@
+{
+  "_aide": "Packs vendus. \"formations\": \"*\" = toutes les formations du dossier content/formations. Sinon, une liste de slugs (noms de dossiers). Prix en euros TTC.",
+  "packs": [
+    {
+      "id": "integrale",
+      "titre": "L'intégrale",
+      "sousTitre": "Les six formations, et toutes celles qui viendront s'ajouter au programme.",
+      "prix": 79,
+      "formations": "*"
+    }
+  ]
+}

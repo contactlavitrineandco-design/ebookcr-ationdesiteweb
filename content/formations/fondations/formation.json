@@ -1,0 +1,18 @@
+{
+  "ordre": 1,
+  "titre": "Les fondations du web",
+  "sousTitre": "Comprendre ce qu'on construit avant de construire.",
+  "description": "Ce qui se passe vraiment entre un clic et une page affichée. Noms de domaine, hébergement, DNS, les trois langages du web, les familles d'outils, et l'installation d'un poste de travail propre. Le livre qu'on aurait aimé lire avant de se lancer.",
+  "prix": 19,
+  "niveau": "Débutant complet",
+  "publicCible": "Toute personne qui part de zéro, sans aucune connaissance technique.",
+  "objectifs": [
+    "Expliquer avec vos mots comment une page web arrive sur un écran",
+    "Choisir un nom de domaine et un hébergement sans vous faire avoir",
+    "Distinguer le rôle de HTML, CSS et JavaScript",
+    "Choisir entre code, CMS et no-code selon le projet",
+    "Disposer d'un poste de travail prêt pour la suite"
+  ],
+  "prerequis": "Savoir utiliser un ordinateur et un navigateur. C'est tout.",
+  "couleur": "#2f4a3a"
+}
